@@ -1,0 +1,57 @@
+/*body  {
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}*/
+input[type="text"]
+{
+	
+	
+	border-radius: 6px;
+
+}
+
+table{
+	  border: 1px solid black;
+	margin-top: 50px;
+	text-align: center;
+	background: rgb(247, 208, 223)	 ;
+ 
+	color:rgb(0, 0, 0) ;
+	  box-shadow: 4px 5px #008080;
+}
+
+th,td{
+	padding: 20px;
+	border-radius: 5px;
+
+}
+th{
+	 text-shadow: 0 0 2px #006666;
+	 font-family: cursive;
+}
+td input
+{
+	width: 100%;
+}
+input[type="submit"]
+{
+	font-family: cursive;;
+	border-radius: 6px;
+	font-size: 1rem;
+	cursor: pointer;
+
+}
+
+input[type="submit"]:hover{
+	background:#008080;
+	border-radius: 6px;
+
+}
+
+
+
+
+
+
+
